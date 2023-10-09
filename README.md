@@ -3,7 +3,7 @@ It uses multi threading, therefore it reports very fast.
 This tool is strongly recommended for educational purpose.
 
 
-<h3 align="center">For password ping me :- https://t.me/amphebian07</h3>
+<h3 align="center">For password ping me :- https://t.me/tangopython</h3>
 
 <h3 align="center">Price is simple 55$</h3>
 
@@ -27,5 +27,5 @@ This tool is strongly recommended for educational purpose.
 </p>
 
 <h3 align="center">Visitors Counts👀</h3>
-<a href="https://github.com/Amphebian07/TikTok-Ban-Bot"><img alt="Cute Count" 
+<a href="https://github.com/tangopython/TikTok-Ban-Bot"><img alt="Cute Count" 
 src="https://count.getloli.com/get/@TikTok-Ban-Bot?theme=rule34" /></a>
